@@ -1,0 +1,28 @@
+
+header{
+    text-align: left;
+    font-size: medium;
+    line-height: 10px;
+}
+section{;
+    text-align: justify;
+    vertical-align: super;
+    margin-top: 80px;
+    line-height: 10px;
+
+}
+footer{
+    text-align: left;
+    color: grey;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+a{
+    color: red;
+    margin: 10px;
+
+}
+a:hover{
+    color: blue;
+}
