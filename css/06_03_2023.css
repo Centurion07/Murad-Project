@@ -1,0 +1,27 @@
+
+div{
+    background-color: lightgrey;
+    font-style: initial;
+margin-right: 800px;
+}
+
+.list1 {
+    list-style-image:url("../img/znak(1).ico")
+}
+ol{
+    font-weight: 600;
+}
+ul{ font-weight: 200
+}
+#winter{
+    list-style-image: url("../img/snow.ico");
+}
+#autumn{
+    list-style-image: url("../img/leaf.ico");
+}
+#spring {
+    list-style-image: url("../img/flower.ico");
+}
+#summer{
+    list-style-image: url("../img/sunrise.ico");
+}
